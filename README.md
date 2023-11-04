@@ -14,4 +14,4 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://Ajay-durgesam.github.io/Ajay-durgesam.github.io/module2/index.html)
+* [Module-2](https://ajay-durgesam.github.io/Ajay-durgesam.github.io/module2/index.html)
