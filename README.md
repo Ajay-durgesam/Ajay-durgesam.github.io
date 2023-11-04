@@ -14,4 +14,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://ajay-durgesam.github.io/Ajay-durgesam.github.io/module2/index.html)
+* [Module-2](https://rawcdn.githack.com/Ajay-durgesam/Ajay-durgesam.github.io/c9c9233337409f4dda023676bd047926f8bc6de7/module2/index.html)
+* [Module-3](https://rawcdn.githack.com/Ajay-durgesam/Ajay-durgesam.github.io/c9c9233337409f4dda023676bd047926f8bc6de7/module3/index.html)
+* [Module-4](https://rawcdn.githack.com/Ajay-durgesam/Ajay-durgesam.github.io/c9c9233337409f4dda023676bd047926f8bc6de7/module4/index.html)
+* [Module-5](https://rawcdn.githack.com/Ajay-durgesam/Ajay-durgesam.github.io/c9c9233337409f4dda023676bd047926f8bc6de7/module5/index.html)
